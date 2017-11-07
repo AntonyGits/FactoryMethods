@@ -1,0 +1,9 @@
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\obj\Debug\Lesson04.Tests.dll
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\obj\Debug\Lesson04.Tests.pdb
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\Lesson04.Tests.dll
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\Lesson04.Tests.pdb
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\Lesson04.exe
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\Lesson04.pdb
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Anthony\Desktop\Code\Lesson04\Lesson04.Tests\obj\Debug\FectoryMethod.Tests.csprojResolveAssemblyReference.cache
